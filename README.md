@@ -1,4 +1,4 @@
-# fake_news_classification
+# fake_news_classification with Tensorflow Hub
 Can you use this data set to make an algorithm able to determine if an article is fake news or not ?
 
 The dataset if from kaggle from the below link
